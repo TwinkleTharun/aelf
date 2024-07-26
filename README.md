@@ -122,5 +122,5 @@ contract MyToken {
 ```
 
 ### Netlify Page
-You can view the project here aelf.netlify.app
+You can view the project [here](aelf.netlify.app)
    
